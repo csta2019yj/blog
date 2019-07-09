@@ -2,6 +2,8 @@
 ## 안녕하세요 테스트 중입니다.
 
 
+<h1>Blog posts</h1>
+
 You can use the [editor on GitHub](https://github.com/csta2019yj/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
